@@ -10,3 +10,7 @@ https://www.autodesk.com/support/download-install/admins/account-deploy/deploy-f
 3. Run your created deployment package to get the same extracted folder structure as the script
 
 4. Create your Win32 app in Intune and deploy
+
+   
+OBS! the files in the folders are dummy files and folders to demonstrate the folder structure for installation
+I have created a .txt file and renamed it to .exe for demonstration purposes 
