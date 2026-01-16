@@ -7,6 +7,6 @@ This script is tested and working to install and uninstall AutoCAD Archicad 2026
 
 https://www.autodesk.com/support/download-install/admins/account-deploy/deploy-from-autodesk-account
 
-3. Run your created deployment package to get the same extracted folder structure as this repository
+3. Run your created deployment package to get the same extracted folder structure as the script
 
 4. Create your Win32 app in Intune and deploy
